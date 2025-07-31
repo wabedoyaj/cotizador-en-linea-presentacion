@@ -6,7 +6,7 @@
 
 ## 🌐 Demo en línea
 
-🖥️ [https://cotizador-wilson.onrender.com](https://cotizador-wilson.onrender.com)  
+🖥️ [https://cotizador-wilson.onrender.com](https://cotizador-frontend-fmp8.onrender.com)  
 *(Versión desplegada — puede tardar unos segundos en iniciar por suspensión automática)*
 
 ---
